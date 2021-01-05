@@ -20,7 +20,7 @@ section{
 .half-width{
     width: 40%;
     float: left;
-    border: 1px solid red;
+    
     padding: 0 8%;
     
 }
@@ -35,5 +35,63 @@ section{
     border-radius: 5px;
 }
 .one-third{
+    width: 30%;
+    box-shadow: 10px 10px 10px rgb(173, 171, 171);
+    margin: 1%;
+    padding: 2%;
+    border-radius: 20px;
+    background-color: white;
     
+}
+
+.one-third img{
+    width: 100%;
+    
+}
+
+.project-background{
+    background-color:rgb(245, 245, 245);
+}
+.orange-highlight{
+    color: orange;
+}
+
+.work-inquiry{
+    display: flex;
+    align-items: center; 
+    background-image: url("images/Group_33094_1.png");
+    margin: 50px;
+    padding:  0 50px;
+    background-repeat: no-repeat;    
+    background-position: center;
+    background-size: 850px;  
+}
+
+.size-it{
+    padding: 50px;
+    margin: 0 100px;
+}
+
+.white-color{
+    color: white;
+    font-size: 55;
+}
+.stay-connected{
+    text-align: center;
+}
+#connected{
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+    color: #696871;
+    margin: 0;
+}
+#email{
+    font-size: 25px;
+    color: #363958;
+    font-weight: bold;
+}
+
+.stay-connected img{
+    width: 30px;
+    margin: 10px;
 }
