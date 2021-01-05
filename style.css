@@ -95,3 +95,41 @@ section{
     width: 30px;
     margin: 10px;
 }
+
+li{
+    display: block;
+    margin: 20px;
+}
+li a{
+    text-decoration: none;    
+    color: #3C3C3C;
+}
+
+ul{
+    display: flex;
+    text-align: right;
+    justify-content: flex-end;
+}
+.menu{
+    margin: 0 10%;
+}
+
+.one-third p{
+    color: #6C6C6C;
+}
+
+.year{
+    font-size: 20px;
+    font-weight: bold;
+}
+.position{
+    font-size: 30px;
+}
+.office{
+    color: #6C6C6C;
+    font-size: 25px;
+    padding: 0;
+}
+.education{
+    text-align: right;
+}
