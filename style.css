@@ -35,7 +35,7 @@ section{
     border-radius: 5px;
 }
 .one-third{
-    width: 30%;
+    width: 27%;
     box-shadow: 10px 10px 10px rgb(173, 171, 171);
     margin: 1%;
     padding: 2%;
@@ -111,7 +111,7 @@ ul{
     justify-content: flex-end;
 }
 .menu{
-    margin: 0 10%;
+    margin: 0 13%;
 }
 
 .one-third p{
@@ -132,4 +132,11 @@ ul{
 }
 .education{
     text-align: right;
+}
+#about-sec{
+    text-align: right;
+    padding: 0 10%;
+}
+#intro{
+    padding: 0 10%;
 }
